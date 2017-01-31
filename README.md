@@ -15,4 +15,5 @@ Ruby / Swift / JavaScript /
 ### その他
 
 Twitter: [@mnhepba](https://twitter.com/mnhepba)  
-Facebook: [Ryunosuke Endo](https://www.facebook.com/Minerva1129)
+Facebook: [Ryunosuke Endo](https://www.facebook.com/Minerva1129)  
+Github: [@minerva1129](https://github.com/minerva1129)
